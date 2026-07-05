@@ -4,3 +4,4 @@ __pycache__/
 audios/
 jsons/
 venv/
+.vscode/
