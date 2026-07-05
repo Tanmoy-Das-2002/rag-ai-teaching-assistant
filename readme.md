@@ -41,7 +41,7 @@ Audio/transcript files are not included in this repository — only the pipeline
 code that processes them. To run this project with your own data, provide your
 own audio files (see Setup below).
 
-## Scope note
+## Scope note 
 
 This demo is trained on 13 introductory Python videos covering variables, data types,
 strings, typecasting, and user input. Questions outside this scope will correctly
